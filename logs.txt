@@ -1,0 +1,14 @@
+2021-11-28 19:03:59.759990: from Veronika: помощь
+    answered successfully at2021-11-28 19:04:00.260671
+2021-11-28 19:05:13.979874: from Veronika: список
+    answered successfully at 2021-11-28 19:05:14.297836
+2021-11-28 19:05:23.831542: from Veronika: категории
+    answered successfully at 2021-11-28 19:05:24.060984
+2021-11-28 19:13:52.989232:  callback query from Veronika: cat Жабы
+    answered successfully at 2021-11-28 19:13:53.403307
+2021-11-28 19:14:52.352831: message from Veronika: помощь
+    answered successfully at 2021-11-28 19:14:52.640833
+2021-11-28 19:15:07.198381: message from Veronika: категории
+    answered successfully at 2021-11-28 19:15:07.344525
+2021-11-28 19:15:09.717014: callback query from Veronika: cat Жабы
+    answered successfully at 2021-11-28 19:15:10.234877
